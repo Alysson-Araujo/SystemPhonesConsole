@@ -2,7 +2,7 @@
 
 ### Descrição
 Este é um sistema simples de console para gerenciar celulares, permitindo adicionar celulares (Iphone e Nokia), ligar,
-receber chamdas, e instalar aplicativosde um estoque. Foi feito com C# e utiliza conceitos de Programação Orientada a Objetos (POO).
+receber chamdas, e instalar aplicativos. Foi feito com C# e utiliza conceitos de Programação Orientada a Objetos (POO).
 
 ### Funcionalidades
 - Adicionar celulares (Iphone e Nokia).
